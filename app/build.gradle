@@ -37,4 +37,5 @@ dependencies {
     compile 'com.trello:rxlifecycle-components:0.6.1'
     compile 'de.hdodenhof:circleimageview:2.1.0'
     compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.jakewharton.rxbinding:rxbinding:0.4.0'
 }

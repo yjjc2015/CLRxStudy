@@ -12,6 +12,15 @@
 
         <Button
             android:id="@+id/btn"
+            android:text="CodingEveryTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_below="@id/btn"
+            android:layout_marginTop="30dip"
+            android:text="just keep coding"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
